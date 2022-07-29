@@ -18,6 +18,7 @@ class _HomePageState extends State<HomePage> {
   int _selectedIndex = 1;
   List<Widget> _screen = [
     UseCameraPage(),
+    ExampleCameraOverlay(),
     GraphPage(),
     MemoryPage(),
     MyPage()

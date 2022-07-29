@@ -6,7 +6,7 @@ import 'package:ocr/pages/auths/login_page.dart';
 import 'package:ocr/pages/auths/register_page.dart';
 import 'package:ocr/providers/auth_provider.dart';
 import '/pages/initial_page.dart';
-// import '/pages/navigations/my_page.dart';
+import '/pages/navigations/my_page.dart';
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
